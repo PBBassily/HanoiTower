@@ -1,0 +1,20 @@
+{
+ "Shapes":{
+  "Shape":[
+   {
+   "Class": "eg.edu.alexu.csd.oop.draw.Ellipse",
+   "Postionx": "188",
+   "PostionY": "149",
+   "ColorRed": "0",
+   "ColorGreen": "0",
+   "ColorBlue": "0",
+   "FillColorRed": "0",
+   "FillColorGreen": "0",
+   "FillColorBlue": "0",
+   "NumberOfProperties": "2",
+   "Hieght": "100.0",
+   "Width": "199.0"
+   }
+  ]
+ }
+}
